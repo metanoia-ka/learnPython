@@ -1,0 +1,5 @@
+[
+    {"nom": "Alice", "transaction": 1500},
+    {"nom": "Bob", "transaction": 3200},
+    {"nom": "Charlie", "transaction": 2200}
+]
